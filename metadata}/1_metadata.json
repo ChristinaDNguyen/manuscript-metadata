@@ -1,0 +1,9 @@
+{
+  "title": "The Tale of the Manuscript",
+  "author": "John Doe",
+  "date": "1450-01-01",
+  "conservation": "The manuscript has undergone minimal conservation work, primarily focused on surface cleaning.",
+  "TIFFs": [
+    "http://example.com/manuscripts/TIFFs/manuscript_001.tif"
+  ]
+}
